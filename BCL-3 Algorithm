@@ -1,0 +1,2 @@
+s(b) = min(1, [λ P2(b | p, a) + (1 - λ) P1(b | a)] * (1 + β * (n_burst / n)))
+where λ = n_pa / (n_pa + k2)
